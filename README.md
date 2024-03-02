@@ -1,1 +1,1 @@
-# Exploring-the-Impact-of-Synthetic-Data-on-Allergic-Rhinitis-Gesture-Recognition-Tasks-Using-GANs
+Exploring the Impact of Synthetic Data on Human Gesture Recognition Tasks Using GANs
